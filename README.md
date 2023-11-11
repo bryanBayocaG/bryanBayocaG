@@ -64,11 +64,13 @@ I am fascinated by how computer technology 🌐 has brought changes to our lives
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<div align="center">
+#
+
+### 📊 Stats
   
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=binayoca686&show_icons=true&theme=gruvbox)
   
-</div>
+#
 
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
