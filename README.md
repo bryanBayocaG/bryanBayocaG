@@ -1,14 +1,10 @@
-![logo](BryanLogo.jpg)
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+# 🏄‍♂️ binayoca686
 
-<h1 align="center">Hi 👋, I'm Bryan Bayoca</h1>
-<h3 align="center">A aspiring Programmer from Philippines</h3>
-<p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early school days, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and frameworks to leveraging them to build cool stuffs 🛠️</p>
-<p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=supuna97&label=Profile%20views&color=0e75b6&style=flat" alt="supun nanayakkara" /> 
-<!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="supun nanayakkara's languages" /> -->
-<!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/supuna97"> -->
-</p>
+**`Student/WebDeveloper`**
+
+I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early school days, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and frameworks to leveraging them to build cool stuffs 🛠️
+
+<img src="https://komarev.com/ghpvc/?username=supuna97&label=Profile%20views&color=0e75b6&style=flat" alt="supun nanayakkara" /> 
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
@@ -68,16 +64,12 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-
-
-
 <div align="center">
   
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=binayoca686&show_icons=true&theme=gruvbox)
   
 </div>
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee2.svg">
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
