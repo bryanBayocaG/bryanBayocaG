@@ -73,7 +73,7 @@
 
 <div align="center">
   
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=binayoca686t&show_icons=true&theme=gruvbox)
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=binayoca686&show_icons=true&theme=gruvbox)
   
 </div>
 
