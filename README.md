@@ -2,7 +2,7 @@
 
 **`Student/WebDeveloper`**
 
-I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early school days, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and frameworks to leveraging them to build cool stuffs 🛠️
+I am fascinated by how computer technology has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early school days, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack and frameworks to leveraging them to build cool stuffs. 
 
 ---
 ### 🧰 Languages and Tools
