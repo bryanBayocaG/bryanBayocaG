@@ -13,9 +13,7 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
-- 🔭 I’m currently working on **UA IT(JKH IT)**
-
-- 🌱 I’m currently learning **Devops**
+- 🌱 I’m currently learning **Working with Collab Environment**
 
 - 💬 Ask me about **React, NextJS, PHP, Laravel and NodeJS**
 
@@ -71,39 +69,14 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg">
+
 
 <div align="center">
   
-```diff
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-@@       o o                                           @@
-@@       | |                                           @@
-@@      _L_L_                                          @@
-@@   ❮\/__-__\/❯ Programming isn't about what you know @@
-@@   ❮(|~o.o~|)❯  It's about what you can figure out   @@
-@@   ❮/ \`-'/ \❯                                       @@
-@@     _/`U'\_                                         @@
-@@    ( .   . )     .----------------------------.     @@
-@@   / /     \ \    | while( ! (succed=try() ) ) |     @@
-@@   \ |  ,  | /    '----------------------------'     @@
-@@    \|=====|/                                        @@
-@@     |_.^._|                                         @@
-@@     | |"| |                                         @@
-@@     ( ) ( )   Testing leads to failure              @@
-@@     |_| |_|   and failure leads to understanding    @@
-@@ _.-' _j L_ '-._                                     @@
-@@(___.'     '.___)                                    @@
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-```
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=binayoca686t&show_icons=true&theme=gruvbox)
   
 </div>
-<p align="center">
 
-<b>FUN FACT EVERYDAY🤔 :</b>
-<i>❝The Space Shuttle never flew on new year’s day or eve because its computers couldn’t handle a year rollover.❞</i>
-
-<p align="center">
 <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee2.svg">
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
