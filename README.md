@@ -4,7 +4,13 @@
 
 I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early school days, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and frameworks to leveraging them to build cool stuffs 🛠️
 
+---
 
+### 🧰 Languages and Tools
+<img src="https://skillicons.dev/icons?i=php,ts,js,react,nextjs,redux,tailwind,laravel,nodejs,express,nextjs,mongodb,mysql,postgresql,git,github,vscode,postman" />
+<br />
+
+#
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"> 
 
