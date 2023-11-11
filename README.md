@@ -3,12 +3,12 @@
 **`Student/WebDeveloper`**
 
 I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early school days, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and frameworks to leveraging them to build cool stuffs 🛠️
-#
-<img src="https://komarev.com/ghpvc/?username=binayoca686&label=Profile%20views&color=0e75b6&style=flat" alt="binayoca686" /> 
-#
-<-- <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"> -->
-<br><br>
 
+
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"> 
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 - 🌱 I’m currently learning **Working with Collab Environment**
 
 - 💬 Ask me about **React, NextJS, PHP, Laravel and NodeJS**
