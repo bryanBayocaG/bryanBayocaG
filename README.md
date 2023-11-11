@@ -7,9 +7,9 @@ I am fascinated by how computer technology 🌐 has brought changes to our lives
 ---
 ### 🧰 Languages and Tools
 <img src="https://skillicons.dev/icons?i=php,ts,js,react,nextjs,redux,tailwind,laravel,nodejs,express,nextjs,mongodb,mysql,postgresql,git,github,vscode,postman" />
+
 #
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 - 🌱 I’m currently learning **Working with Collab Environment**
 
 - 💬 Ask me about **React, NextJS, PHP, Laravel and NodeJS**
@@ -18,60 +18,30 @@ I am fascinated by how computer technology 🌐 has brought changes to our lives
 
 - ⚡ Fun fact **I think I'm a little overthinker of simple things**
 
-<br>
-
-<br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h3 align="left">Languages and Tools:</h3>
 
-- Backend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,nextjs" />
-  </a>
-</p>
 
-- Frontend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,materialui" />
-  </a>
-</p>
 
-- Database
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
-  </a>
-</p>
 
-- Cloud Servers
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,firebase" />
-  </a>
-</p>
 
-- Tools
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-  </a>
-</p>
+
+
+
 
 <br/>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-#
+
 
 ### 📊 Stats
   
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=binayoca686&show_icons=true&theme=gruvbox)
   
-#
+
 
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
