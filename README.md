@@ -12,7 +12,7 @@ I am fascinated by how computer technology has brought changes to our lives that
 
 - 🌱 I’m currently learning **Working with Collab Environment**
 
-- 💬 Ask me about **React, NextJS, PHP, Laravel and NodeJS**
+- 💬 Ask me about **React, NextJS, PHP and Laravel**
 
 - 📫 How to reach me **bryanbayoca686@gmail.com**
 
