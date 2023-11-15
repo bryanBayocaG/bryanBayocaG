@@ -10,7 +10,7 @@ I am fascinated by how computer technology has brought changes to our lives that
 
 #
 
-- 🌱 I’m currently learning **Working with Collab Environment**
+- 🌱 I’m currently learning **Working with Collaboration Environment**
 
 - 💬 Ask me about **React, NextJS, PHP and Laravel**
 
