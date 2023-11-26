@@ -10,7 +10,7 @@ I am fascinated by how computer technology has brought changes to our lives that
 
 #
 
-- 🌱 I’m currently learning **Working with Collaboration Environment**
+- 🌱 I’m currently learning **AWS abd Firebase cloubase**
 
 - 💬 Ask me about **React, NextJS, PHP and Laravel**
 
