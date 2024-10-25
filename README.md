@@ -1,6 +1,6 @@
 # 🏄‍♂️ Bryan Bayoca
 
-**`Student/WebDeveloper`**
+**`Fresh Graduate / Web Developer`**
 
 I am fascinated by how computer technology has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early school days, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack and frameworks to leveraging them to build cool stuffs.
 
@@ -17,8 +17,6 @@ I am fascinated by how computer technology has brought changes to our lives that
 - 💬 Ask me about **React, NextJS, PHP and Laravel**
 
 - 📫 How to reach me **bryanbayoca686@gmail.com**
-
-- ⚡ Fun fact **I think I'm a little overthinker of simple things**
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
