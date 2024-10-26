@@ -16,7 +16,9 @@ I am fascinated by how computer technology has brought changes to our lives that
 
 - 💬 Ask me about **React, NextJS, PHP and Laravel**
 
-- 📫 How to reach me **bryanbayoca686@gmail.com**
+- 📫 How to reach me through gmail **bryanbayoca686@gmail.com**
+
+- 📱 How to reach me through my mobile number **0966-7984-996**
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
