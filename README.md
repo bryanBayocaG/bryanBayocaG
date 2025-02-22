@@ -1,4 +1,4 @@
-# Bryan Bayoca  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZjd2FmM204YXM2bWh3Z29yYnJlMmVjeHo0aXR0ZHphMWFua3U1diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/OkoScrMcY324r1j1HZ/giphy.gif" height="100" width="100"/>
+# Bryan Bayoca  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZjd2FmM204YXM2bWh3Z29yYnJlMmVjeHo0aXR0ZHphMWFua3U1diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/OkoScrMcY324r1j1HZ/giphy.gif" height="100" width="10"/>
 
 **`Full-stack Developer / Graphic Designer`**
 
