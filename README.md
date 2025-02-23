@@ -8,7 +8,7 @@ I am fascinated by how computer technology has brought changes to our lives that
 
 ### 🧰 Languages and Tools
 
-<img src="https://skillicons.dev/icons?i=php,js,react,typescript,nextjs,redux,laravel,express,mysql,mongodb,github,vscode,postman,ps,ai" />
+<img src="https://skillicons.dev/icons?i=php,js,react,typescript,nextjs,redux,laravel,tailwind,bootstrap,express,mysql,mongodb,github,vscode,postman,ps,ai" />
 
 #
 
