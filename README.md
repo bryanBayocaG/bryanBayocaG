@@ -25,7 +25,7 @@ I am fascinated by how computer technology has brought changes to our lives that
 ### 📊 Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bryanbayocaG&show_icons=true&locale=en&layout=compact" alt="adriandotdev" /></p>
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=bryanBayocaG&show_icons=true&theme=gruvbox)
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=bryanBayocaG&show_icons=true&theme=tokyonight)
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
