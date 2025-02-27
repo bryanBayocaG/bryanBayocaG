@@ -12,7 +12,7 @@ I am fascinated by how computer technology has brought changes to our lives that
 
 #
 
-- 🌱 I’m currently learning **AWS and Firebase cloubase**
+- 🌱 I’m currently learning **AWS and Angular**
 
 - 💬 Ask me about **React, NextJS, PHP and Laravel**
 
