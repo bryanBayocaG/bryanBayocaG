@@ -22,11 +22,4 @@ I am fascinated by how computer technology has brought changes to our lives that
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-### 📊 Stats
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=bryanBayocaG&show_icons=true&theme=dark" alt="bryanBayocaG" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bryanbayocaG&show_icons=true&locale=en&layout=compact" alt="bryanBayocaG" /></p>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
